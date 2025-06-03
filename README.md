@@ -11,4 +11,4 @@
 #learned how to clone
 
 save token using (git config --global credential.helper store)
-where it is saved (cat .git-credentials)
+where it is saved (cat ~/.git-credentials)
